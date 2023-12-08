@@ -13,8 +13,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="FireFox" alt="FireFox" width="40" height="40"/>&nbsp;
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.m.wikipedia.org%2Fwiki%2FDatei%3APyCharm_Icon.svg&psig=AOvVaw0jYPimLlyKBW3AdOYq45Ki&ust=1702078063172000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMic2tbL_oIDFQAAAAAdAAAAABAJ" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-clion-jetbrains-intellij-idea-c-macos-altova-umode-6217259%2F&psig=AOvVaw18HH4ya4z-3-7vZgfmdAsd&ust=1702078115859000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCshPDL_oIDFQAAAAAdAAAAABAD" title="CLion" alt="CLion" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
