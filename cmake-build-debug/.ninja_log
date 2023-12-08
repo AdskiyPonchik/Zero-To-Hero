@@ -1,0 +1,5 @@
+# ninja log v5
+0	432	1701993487559366502	CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o	f5d850cf97429332
+0	451	1701993487579366501	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
+0	31	1701993535102699740	build.ninja	cf883fd006f2c3fd
+1	64	1701993535172699740	Studying	599eadf9a06d4064

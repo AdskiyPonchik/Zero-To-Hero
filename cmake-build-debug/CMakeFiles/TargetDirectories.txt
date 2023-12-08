@@ -1,0 +1,3 @@
+/home/adskiyponchik/ForMe/programming/Projects/С++/Studying/cmake-build-debug/CMakeFiles/Studying.dir
+/home/adskiyponchik/ForMe/programming/Projects/С++/Studying/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adskiyponchik/ForMe/programming/Projects/С++/Studying/cmake-build-debug/CMakeFiles/rebuild_cache.dir
