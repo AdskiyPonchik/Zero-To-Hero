@@ -49,11 +49,11 @@ cmake_ninja_workdir = /home/adskiyponchik/ForMe/programming/Projects/С++/Studyi
 
 build cmake_object_order_depends_target_Studying: phony || CMakeFiles/Studying.dir
 
-build CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o: CXX_COMPILER__Studying_unscanned_Debug /home/adskiyponchik/ForMe/programming/Projects/С++/Studying/lessons/pointers/example1.cpp || cmake_object_order_depends_target_Studying
-  DEP_FILE = CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o.d
+build CMakeFiles/Studying.dir/main.cpp.o: CXX_COMPILER__Studying_unscanned_Debug /home/adskiyponchik/ForMe/programming/Projects/С++/Studying/main.cpp || cmake_object_order_depends_target_Studying
+  DEP_FILE = CMakeFiles/Studying.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Studying.dir
-  OBJECT_FILE_DIR = CMakeFiles/Studying.dir/lessons/pointers
+  OBJECT_FILE_DIR = CMakeFiles/Studying.dir
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o: CXX_COMPILER__Stu
 #############################################
 # Link the executable Studying
 
-build Studying: CXX_EXECUTABLE_LINKER__Studying_Debug CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o
+build Studying: CXX_EXECUTABLE_LINKER__Studying_Debug CMakeFiles/Studying.dir/main.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Studying.dir
   POST_BUILD = :

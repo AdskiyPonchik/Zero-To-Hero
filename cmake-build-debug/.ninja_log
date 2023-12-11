@@ -1,5 +1,12 @@
 # ninja log v5
-0	432	1701993487559366502	CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o	f5d850cf97429332
-0	451	1701993487579366501	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
-0	31	1701993535102699740	build.ninja	cf883fd006f2c3fd
-1	64	1701993535172699740	Studying	599eadf9a06d4064
+1	458	1702331511736402299	CMakeFiles/Studying.dir/lessons/pointers/example2.cpp.o	4dee604322a24a56
+0	31	1702336606313059044	build.ninja	cf883fd006f2c3fd
+454	517	1702334988673062223	Studying	ffbfc6fbd334d480
+1	451	1702331476803069037	CMakeFiles/Studying.dir/lessons/pointers/example1.cpp.o	f5d850cf97429332
+1	454	1702334988609728891	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
+1	441	1702336792566392010	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
+441	507	1702336792629725343	Studying	ffbfc6fbd334d480
+1	453	1702336824259725281	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
+454	512	1702336824316391948	Studying	ffbfc6fbd334d480
+0	463	1702336852256391895	CMakeFiles/Studying.dir/main.cpp.o	b4900f31d8dd9e0e
+463	530	1702336852319725227	Studying	ffbfc6fbd334d480

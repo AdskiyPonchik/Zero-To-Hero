@@ -34,6 +34,10 @@
 
     Constantly improving my skills through hands-on projects and coding challenges.
     Actively contributing to open-source projects to collaborate and learn from the community.
+    Solving a lot of tasks from CodeWars/Leetcode/Hackerrank:
+
+![Codewars](https://github.r2v.ch/codewars?user=AdskiyPonchik&stroke=rgb(102,0,102))
+
 
 👥 Collaboration:
 
@@ -54,7 +58,3 @@
 🏆 Current Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdskiyPonchik&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdskiyPonchik&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdskiyPonchik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
